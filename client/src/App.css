@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  align-items: center; 
+  justify-content: center; 
+  margin: 0 auto;
+  max-width: 1300px; 
+}
